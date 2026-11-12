@@ -1,0 +1,9 @@
+app/
+src/bin/
+src/obj/
+tests/bin/
+tests/output/
+.vs/
+records/
+backups/
+dist/
